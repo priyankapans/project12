@@ -1,0 +1,310 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "name": "Fosil",
+      "description": "Pure Brown Watch.Largest selling Watch brand in india.",
+      "imageurl": "https://images-na.ssl-images-amazon.com/images/I/719b2sPahmL._UY550_.jpg",
+      "price": 2000,
+      "garrenty": "1'year"
+    },
+    {
+      "id": 2,
+      "name": "Fosil",
+      "description": "Fosil is the mimimal Three-Hand Light Brown Leather Watch.",
+      "imageurl": "https://cdn.igp.com/f_auto,q_auto,t_prodm/products/p-titan-classy-men-watch-75561-m.jpg",
+      "price": 2000,
+      "garrenty": "1'year"
+    },
+    {
+      "id": 3,
+      "name": "Fosil",
+      "description": "Pure Brown Watch.Largest selling Watch brand in india.",
+      "imageurl": "https://cdn.shopclues.com/images/thumbnails/66169/320/320/77036YM011490897226.jpg",
+      "price": 2000,
+      "garrenty": "1'year"
+    }
+  ],
+  "wishlist": [
+    {
+      "id": 2
+    },
+    {
+      "id": 1
+    },
+    {
+      "id": {
+        "id": 3,
+        "name": "Fosil",
+        "description": "Pure Brown Watch.Largest selling Watch brand in india.",
+        "imageurl": "https://cdn.shopclues.com/images/thumbnails/66169/320/320/77036YM011490897226.jpg",
+        "price": 2000,
+        "garrenty": "1'year"
+      }
+    },
+    {
+      "id": 3
+    }
+  ],
+  "cart": [
+    {
+      "product": {
+        "id": 1,
+        "name": "Fosil",
+        "description": "Pure Brown Watch.Largest selling Watch brand in india.",
+        "imageurl": "https://images-na.ssl-images-amazon.com/images/I/719b2sPahmL._UY550_.jpg",
+        "price": 2000,
+        "garrenty": "1'year"
+      },
+      "id": 1
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "Fosil",
+        "description": "Pure Brown Watch.Largest selling Watch brand in india.",
+        "imageurl": "https://images-na.ssl-images-amazon.com/images/I/719b2sPahmL._UY550_.jpg",
+        "price": 2000,
+        "garrenty": "1'year"
+      },
+      "id": 2
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "Fosil",
+        "description": "Pure Brown Watch.Largest selling Watch brand in india.",
+        "imageurl": "https://images-na.ssl-images-amazon.com/images/I/719b2sPahmL._UY550_.jpg",
+        "price": 2000,
+        "garrenty": "1'year"
+      },
+      "id": 3
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Fosil",
+        "description": "Fosil is the mimimal Three-Hand Light Brown Leather Watch.",
+        "imageurl": "https://contestimg.wish.com/api/webimage/5d1044f922d07f685e4c873e-large.jpg?cache_buster=05cdf6dab771fbb6ca79e34c24cc5fd7",
+        "price": 2000,
+        "garrenty": "1'year"
+      },
+      "id": 4
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "Fosil",
+        "description": "Pure Brown Watch.Largest selling Watch brand in india.",
+        "imageurl": "https://images-na.ssl-images-amazon.com/images/I/719b2sPahmL._UY550_.jpg",
+        "price": 2000,
+        "garrenty": "1'year"
+      },
+      "id": 5
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Fosil",
+        "description": "Fosil is the mimimal Three-Hand Light Brown Leather Watch.",
+        "imageurl": "https://contestimg.wish.com/api/webimage/5d1044f922d07f685e4c873e-large.jpg?cache_buster=05cdf6dab771fbb6ca79e34c24cc5fd7",
+        "price": 2000,
+        "garrenty": "1'year"
+      },
+      "id": 6
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "Fosil",
+        "description": "Pure Brown Watch.Largest selling Watch brand in india.",
+        "imageurl": "../../assets/p1.jpg",
+        "price": 2000,
+        "garrenty": "1'year"
+      },
+      "id": 7
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "fosil",
+        "description": "Pure Brown Watch.Largest selling Watch brand in india.",
+        "imageurl": "../../assets/p1.jpg",
+        "price": 2000,
+        "garrenty": "1'year"
+      },
+      "id": 8
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "Fosil",
+        "description": "Pure Brown Watch.Largest selling Watch brand in india.",
+        "imageurl": "https://images-na.ssl-images-amazon.com/images/I/719b2sPahmL._UY550_.jpg",
+        "price": 2000,
+        "garrenty": "1'year"
+      },
+      "id": 9
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Fosil",
+        "description": "Fosil is the mimimal Three-Hand Light Brown Leather Watch.",
+        "imageurl": "https://cdn.igp.com/f_auto,q_auto,t_prodm/products/p-titan-classy-men-watch-75561-m.jpg",
+        "price": 2000,
+        "garrenty": "1'year"
+      },
+      "id": 10
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "Fosil",
+        "description": "Pure Brown Watch.Largest selling Watch brand in india.",
+        "imageurl": "https://cdn.shopclues.com/images/thumbnails/66169/320/320/77036YM011490897226.jpg",
+        "price": 2000,
+        "garrenty": "1'year"
+      },
+      "id": 11
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "Fosil",
+        "description": "Pure Brown Watch.Largest selling Watch brand in india.",
+        "imageurl": "https://images-na.ssl-images-amazon.com/images/I/719b2sPahmL._UY550_.jpg",
+        "price": 2000,
+        "garrenty": "1'year"
+      },
+      "id": 12
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Fosil",
+        "description": "Fosil is the mimimal Three-Hand Light Brown Leather Watch.",
+        "imageurl": "https://cdn.igp.com/f_auto,q_auto,t_prodm/products/p-titan-classy-men-watch-75561-m.jpg",
+        "price": 2000,
+        "garrenty": "1'year"
+      },
+      "id": 13
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "Fosil",
+        "description": "Pure Brown Watch.Largest selling Watch brand in india.",
+        "imageurl": "https://cdn.shopclues.com/images/thumbnails/66169/320/320/77036YM011490897226.jpg",
+        "price": 2000,
+        "garrenty": "1'year"
+      },
+      "id": 14
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "Fosil",
+        "description": "Pure Brown Watch.Largest selling Watch brand in india.",
+        "imageurl": "https://cdn.shopclues.com/images/thumbnails/66169/320/320/77036YM011490897226.jpg",
+        "price": 2000,
+        "garrenty": "1'year"
+      },
+      "id": 15
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "Fosil",
+        "description": "Pure Brown Watch.Largest selling Watch brand in india.",
+        "imageurl": "https://images-na.ssl-images-amazon.com/images/I/719b2sPahmL._UY550_.jpg",
+        "price": 2000,
+        "garrenty": "1'year"
+      },
+      "id": 16
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "Fosil",
+        "description": "Pure Brown Watch.Largest selling Watch brand in india.",
+        "imageurl": "https://images-na.ssl-images-amazon.com/images/I/719b2sPahmL._UY550_.jpg",
+        "price": 2000,
+        "garrenty": "1'year"
+      },
+      "id": 17
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Fosil",
+        "description": "Fosil is the mimimal Three-Hand Light Brown Leather Watch.",
+        "imageurl": "https://cdn.igp.com/f_auto,q_auto,t_prodm/products/p-titan-classy-men-watch-75561-m.jpg",
+        "price": 2000,
+        "garrenty": "1'year"
+      },
+      "id": 18
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "Fosil",
+        "description": "Pure Brown Watch.Largest selling Watch brand in india.",
+        "imageurl": "https://cdn.shopclues.com/images/thumbnails/66169/320/320/77036YM011490897226.jpg",
+        "price": 2000,
+        "garrenty": "1'year"
+      },
+      "id": 19
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "Fosil",
+        "description": "Pure Brown Watch.Largest selling Watch brand in india.",
+        "imageurl": "https://cdn.shopclues.com/images/thumbnails/66169/320/320/77036YM011490897226.jpg",
+        "price": 2000,
+        "garrenty": "1'year"
+      },
+      "id": 20
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "Fosil",
+        "description": "Pure Brown Watch.Largest selling Watch brand in india.",
+        "imageurl": "https://images-na.ssl-images-amazon.com/images/I/719b2sPahmL._UY550_.jpg",
+        "price": 2000,
+        "garrenty": "1'year"
+      },
+      "id": 21
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "Fosil",
+        "description": "Pure Brown Watch.Largest selling Watch brand in india.",
+        "imageurl": "https://cdn.shopclues.com/images/thumbnails/66169/320/320/77036YM011490897226.jpg",
+        "price": 2000,
+        "garrenty": "1'year"
+      },
+      "id": 22
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

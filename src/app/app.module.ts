@@ -1,4 +1,5 @@
 import { BrowserModule } from '@angular/platform-browser';
+import { HttpClientModule } from '@angular/common/http';
 import { NgModule } from '@angular/core';
 
 import { AppRoutingModule } from './app-routing.module';
@@ -15,6 +16,10 @@ import { ProductListComponent } from './watchshop/product-list/product-list.comp
 import { FiltersComponent } from './watchshop/filters/filters.component';
 import { CartItemComponent } from './watchshop/cart/cart-item/cart-item.component';
 import { ProductItemComponent } from './watchshop/product-list/product-item/product-item.component';
+import { LoginComponent } from './login/login.component';
+import { RegisterComponent } from './register/register.component';
+import { ShopComponent } from './shop/shop.component';
+import { PageNotFoundComponent } from './page-not-found/page-not-found.component';
 
 @NgModule({
   declarations: [
@@ -30,13 +35,18 @@ import { ProductItemComponent } from './watchshop/product-list/product-item/prod
     ProductListComponent,
     FiltersComponent,
     CartItemComponent,
-    ProductItemComponent
+    ProductItemComponent,
+    LoginComponent,
+    RegisterComponent,
+    ShopComponent,
+    PageNotFoundComponent
     
    
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule
+    AppRoutingModule,
+    HttpClientModule
 
   ],
   providers: [],
